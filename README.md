@@ -63,7 +63,7 @@ The following Python code provides a standalone implementation of the core funct
 
 ## Results:
 <p align="center">
-  <img src=/workspaces/Sarvam-Research-Fellow-Assignment-2/results.png>
+  <img src="https://github.com/kunaltilaganji/Sarvam-Research-Fellow-Assignment-2/blob/main/results.png">
 </p>
 
 
